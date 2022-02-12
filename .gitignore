@@ -1,4 +1,2 @@
 node_modules/
-let message;
-message="Hello";
-console.log(message);
+

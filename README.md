@@ -1,2 +1,4 @@
 # programming-lessons
-123123123
+let message;
+message="Hello";
+console.log(message);
