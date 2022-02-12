@@ -1,3 +1,3 @@
-let user="string";
-let message=John;
-console.log(message);
+let message="John";
+let name="John"
+console.log(name);
