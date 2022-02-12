@@ -1,2 +1,3 @@
 node_modules/
-.vs
+let message;
+message="Hello";
