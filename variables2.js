@@ -11,4 +11,5 @@ console.log(typeof undeclaredVariable);
 // expected output: "undefined"
 let age = null;
 console.log(typeof null);
+// expected output: "object"
 console.log(typeof alert);
