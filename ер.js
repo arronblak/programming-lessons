@@ -34,8 +34,8 @@ app.get('/todos/:id', (req, res) => {
         const todos = JSON.parse(data);
         console.log("upload has done");
         digit = 69;
-        Nadya = todos[digit];
-        console.log(Nadya);
+        MONSTR = todos[digit];
+        console.log(MONSTR);
         console.log("данные получены!");
 
         res.send(todos[req.params.id]);
